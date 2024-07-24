@@ -16,6 +16,9 @@ languages:
 #  - javascript
   - python
 
+exclude_path:
+  - FolderCaseSensitive/Excludefolderfile.py
+
 # Configures target url where dynamic scan should be performed.
 #dast:
 #  url: https://your.url.com
